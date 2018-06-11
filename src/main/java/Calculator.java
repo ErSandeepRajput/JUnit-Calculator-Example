@@ -1,6 +1,11 @@
 /*Java class for Calculation of Two integers*/
 class Calculator {
 
+    /* Calculator class constructor*/
+    protected Calculator(){
+
+    }
+
     /* Method for addition of Two Integers*/
     static int addition(int a, int b) {
         return a + b;
