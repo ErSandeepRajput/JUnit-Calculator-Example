@@ -12,6 +12,9 @@ class Calculator {
 
     /**
      * Method for addition of Two Integers
+     * @param a Integer
+     * @param b Integer
+     * @return addition of two numbers
      */
     static int addition(final int a, final int b) {
         return a + b;
@@ -19,6 +22,9 @@ class Calculator {
 
     /**
      * Method for subtraction of Two Integers
+     * @param a Integer
+     * @param b Integer
+     * @return subtraction of two numbers
      */
     static int subtraction(final int a, final int b) {
         return a - b;
@@ -26,6 +32,9 @@ class Calculator {
 
     /**
      * Method for Multiplication of Two Integers
+     * @param a Integer
+     * @param b Integer
+     * @return multiplication of two numbers
      */
     static int multiplication(final int a, final int b) {
         return a * b;
@@ -33,6 +42,9 @@ class Calculator {
 
     /**
      * Method for Division of Two Integers
+     * @param a Integer
+     * @param b Integer
+     * @return division of two numbers
      */
     static int division(final int a, final int b) {
         return a / b;
