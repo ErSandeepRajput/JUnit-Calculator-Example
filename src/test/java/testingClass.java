@@ -5,9 +5,9 @@ public class testingClass {
 
     @Test
     public void duringMathod(){
-        Assertions.assertEquals(5, calculator.addition(2,3));
-        Assertions.assertEquals(-1, calculator.subtraction(2,3));
-        Assertions.assertEquals(6, calculator.multiplication(2,3));
+        Assertions.assertEquals(5, Calculator.addition(2,3));
+        Assertions.assertEquals(-1, Calculator.subtraction(2,3));
+        Assertions.assertEquals(6, Calculator.multiplication(2,3));
     }
 
 }
