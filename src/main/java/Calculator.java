@@ -1,3 +1,4 @@
+/*Java class for Calculation of Two integers*/
 class Calculator {
 
     /* Method for addition of Two Integers*/
