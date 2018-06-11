@@ -1,12 +1,12 @@
 /**
- * Java class for Calculation of Two integers
+ * Java class for Calculation of Two integers.
  */
 class Calculator {
 
     /**
-     * Calculator class constructor
+     * Calculator class constructor.
      */
-    protected Calculator(){
+    protected Calculator() {
 
     }
 
