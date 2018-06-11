@@ -1,5 +1,5 @@
 /*Java class for Calculation of Two integers*/
-private class Calculator {
+class Calculator {
 
     /* Method for addition of Two Integers*/
     static int addition(int a, int b) {
