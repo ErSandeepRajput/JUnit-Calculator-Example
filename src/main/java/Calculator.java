@@ -11,7 +11,7 @@ class Calculator {
     }
 
     /**
-     * Method for addition of Two Integers
+     * Method for addition of Two Integers.
      * @param a Integer
      * @param b Integer
      * @return addition of two numbers
@@ -21,7 +21,7 @@ class Calculator {
     }
 
     /**
-     * Method for subtraction of Two Integers
+     * Method for subtraction of Two Integers.
      * @param a Integer
      * @param b Integer
      * @return subtraction of two numbers
@@ -31,7 +31,7 @@ class Calculator {
     }
 
     /**
-     * Method for Multiplication of Two Integers
+     * Method for Multiplication of Two Integers.
      * @param a Integer
      * @param b Integer
      * @return multiplication of two numbers
@@ -41,7 +41,7 @@ class Calculator {
     }
 
     /**
-     * Method for Division of Two Integers
+     * Method for Division of Two Integers.
      * @param a Integer
      * @param b Integer
      * @return division of two numbers
