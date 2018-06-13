@@ -50,4 +50,9 @@ class Calculator {
         return a / b;
     }
 
+    static double log(double number) {
+        double result = java.lang.Math.log(number);
+        return result;
+    }
+
 }
