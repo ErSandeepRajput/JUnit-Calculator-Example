@@ -50,6 +50,11 @@ class Calculator {
         return a / b;
     }
 
+    /**
+     * Method to find Natural log of given number.
+     * @param number Natural Number
+     * @return Natural log of given number
+     */
     static double log(double number) {
         double result = java.lang.Math.log(number);
         return result;
