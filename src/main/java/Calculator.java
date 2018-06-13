@@ -55,7 +55,7 @@ class Calculator {
      * @param number Natural Number
      * @return Natural log of given number
      */
-    static double log(double number) {
+    static double log(final double number) {
         double result = java.lang.Math.log(number);
         return result;
     }
